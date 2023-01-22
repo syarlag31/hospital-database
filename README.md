@@ -1,4 +1,4 @@
-# hospital-database
+# Hospital Database
 Designed a Hospital Database with the following requirements:
   This hospital has physicians and nurses and gives services to patients.
   - The hospital contains several rooms.
